@@ -3,7 +3,9 @@
 Junior Data Scientist | Python | SQL | Machine Learning
 
 🎓 Data Science Bootcamp Graduate — TripleTen (2026)
+
 ⚡ Background in Renewable Energy Engineering
+
 💼 Open to Junior Data Scientist Opportunities | Remote Preferred
 
 I'm an aspiring Data Scientist with a background in Renewable Energy Engineering and English teaching. I completed the TripleTen Data Science Bootcamp, where I developed hands-on skills in data analysis, statistical testing, machine learning, and predictive modeling.
@@ -29,6 +31,7 @@ Analyzed player retention, monetization, and A/B testing results to identify opp
 - Applied statistical hypothesis testing to support data-driven recommendations.
 
 Skills: Gaming Analytics, Python, Pandas, A/B Testing, Statistical Analysis
+
 🔗 https://github.com/jesushr-1/mobile-gaming-analytics
 
 👥 **Customer Experience Analytics — Churn & Retention**
@@ -40,6 +43,7 @@ Explored customer behavior and churn patterns to identify factors associated wit
 - Interpreted model performance and translated findings into business insights.
 
 Skills: Customer Analytics, Machine Learning, Classification, Data Analysis
+
 🔗 https://github.com/jesushr-1/customer-experience-analytics
 
 🚕 **Ride-Hailing Demand Forecasting — Time Series & Machine Learning**
@@ -51,6 +55,7 @@ Developed machine learning models to forecast hourly taxi demand using historica
 - Achieved a test RMSE of 41.33 with CatBoost, meeting the project's performance target.
 
 Skills: Time Series Forecasting, Feature Engineering, Regression, CatBoost
+
 🔗 https://github.com/jesushr-1/ride-hailing-demand-forecasting
 
 🎯 Career Interests
@@ -74,7 +79,7 @@ I'm eager to contribute analytical thinking, technical skills, and a continuous 
 
 ## 📫 Contacto
 - 📧 Email: jesushr_1@hotmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/jesushr-data-scientist/
+- 💼 LinkedIn: https://www.linkedin.com/in/jmhr0109
 
 ---
 
