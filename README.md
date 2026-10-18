@@ -1,36 +1,69 @@
-# 👋 Hola, soy Jesús Hernández
+## 👋 Hi, I'm Jesús Hernández
 
-🎓 Estudiante de Data Science  
-📊 En transición profesional hacia el análisis de datos  
-🚀 Aprendiendo cada día nuevas tecnologías 
+Junior Data Scientist | Python | SQL | Machine Learning
 
-Soy estudiante de un bootcamp de **Data Science**, con experiencia previa como **maestro de inglés**.  
-Me interesa el análisis de datos, la estadística aplicada y el uso de datos para la toma de decisiones.
+🎓 Data Science Bootcamp Graduate — TripleTen (2026)
+⚡ Background in Renewable Energy Engineering
+💼 Open to Junior Data Scientist Opportunities | Remote Preferred
 
----
+I'm an aspiring Data Scientist with a background in Renewable Energy Engineering and English teaching. I completed the TripleTen Data Science Bootcamp, where I developed hands-on skills in data analysis, statistical testing, machine learning, and predictive modeling.
 
-## 🧠 Sobre mí
-Actualmente me estoy formando en **análisis de datos y ciencia de datos**, trabajando con proyectos prácticos que incluyen limpieza de datos, análisis exploratorio, estadística y visualización.
+I'm passionate about transforming data into actionable insights and solving real-world business problems, particularly in gaming analytics, customer experience, and predictive analytics.
 
----
+## 🛠️ Technical Skills
+- Programming: Python, SQL
+- Data Analysis: Pandas, NumPy, Exploratory Data Analysis (EDA)
+- Data Visualization: Matplotlib, Seaborn
+- Machine Learning: Scikit-learn, CatBoost, LightGBM
+- Statistics: Hypothesis Testing, A/B Testing, Model Evaluation
+- Tools: Git, GitHub, Jupyter Notebook, VS Code
 
-## 🛠️ Tecnologías y herramientas
-- Python  
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- SQL  
-- Git y GitHub  
+## 🚀 Featured Projects
 
----
+- 🎮 **Mobile Gaming Analytics — Retention & A/B Testing**
 
-## 📂 Proyectos destacados
-- 🚕 **Aplicación web para análisis de datos de vehículos**  
-  Creación y gestión de entornos virtuales de Python y el desarrollo de una aplicación web.  
-  🔗 https://github.com/jesushr-1/mi-proyecto-vehiculos.git
+Analyzed player retention, monetization, and A/B testing results to identify opportunities for improving business performance.
 
-- 🛒 **Análisis de viajes en diferentes condiciones climatológicas**  
-  Comparación en el uso de taxis en diferentes escenarios meteorológicos.  
-  🔗 https://github.com/jesushr-1/mi-proyecto-viajes.git
+- Evaluated D1, D7, D14, and D30 retention rates.
+- Compared conversion rates, ARPU, and ARPPU between experimental groups.
+- Applied statistical hypothesis testing to support data-driven recommendations.
+
+Skills: Gaming Analytics, Python, Pandas, A/B Testing, Statistical Analysis
+🔗 https://github.com/jesushr-1/mobile-gaming-analytics
+
+👥 **Customer Experience Analytics — Churn & Retention**
+
+Explored customer behavior and churn patterns to identify factors associated with customer attrition and support retention strategies.
+
+- Analyzed customer characteristics, contract types, and service usage.
+- Developed machine learning models to predict customer churn.
+- Interpreted model performance and translated findings into business insights.
+
+Skills: Customer Analytics, Machine Learning, Classification, Data Analysis
+🔗 https://github.com/jesushr-1/customer-experience-analytics
+
+🚕 **Ride-Hailing Demand Forecasting — Time Series & Machine Learning**
+
+Developed machine learning models to forecast hourly taxi demand using historical order data.
+
+- Applied time series feature engineering and chronological data splitting.
+- Compared Linear Regression, Random Forest, CatBoost, and LightGBM.
+- Achieved a test RMSE of 41.33 with CatBoost, meeting the project's performance target.
+
+Skills: Time Series Forecasting, Feature Engineering, Regression, CatBoost
+🔗 https://github.com/jesushr-1/ride-hailing-demand-forecasting
+
+🎯 Career Interests
+
+I'm currently seeking my first professional opportunity as a Junior Data Scientist, preferably in a remote position.
+
+My main areas of interest include:
+
+- Gaming and Product Analytics
+- Customer Experience and Retention
+- Predictive Modeling and Machine Learning
+
+I'm eager to contribute analytical thinking, technical skills, and a continuous learning mindset to a data-driven team.
 
 ---
 
