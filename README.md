@@ -72,18 +72,18 @@ I'm eager to contribute analytical thinking, technical skills, and a continuous 
 
 ---
 
-## 🌐 Portafolio web
+## 🌐 Web Portfolio
 🔗 https://jesushr-1.github.io/
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 - 📧 Email: jesushr_1@hotmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/jmhr0109
 
 ---
 
-⭐ Siempre abierto a aprender y mejorar mis habilidades en análisis de datos.
+⭐ Always open to learning and improving my data analysis skills.
 <!--
 **jesushr-1/jesushr-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
